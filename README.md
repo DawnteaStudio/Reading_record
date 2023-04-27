@@ -7,12 +7,13 @@
    [회고](https://dawntea-studio.tistory.com/12?category=1032790)
 ***
 ### 박응용, 『점프 투 파이썬』 (2019)  
-   독서 시작 : 2022.08.26 ~ 
+   독서 시작 : 2022.08.26 ~ ???
+   2회독 : 미정 ~ 
    
    [회고](https://dawntea-studio.tistory.com/10)
    ***
 ### 남궁성, 『자바의 정석』 (2016)
-   독서 시작 : 2022.09.28 ~ 
+   독서 시작 : ~ 
    
    [회고](https://dawntea-studio.tistory.com/11)
    ***
